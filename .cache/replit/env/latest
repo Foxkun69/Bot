@@ -1,0 +1,56 @@
+declare -gx REPLIT_PID1_VERSION=0.0.0-928e258
+declare -gx REPL_ID=f06d6426-2379-4d09-bb87-ac4e38da36ba
+declare -gx XDG_CACHE_HOME=/home/runner/discord-js-bot/.cache
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-24_05:/home/runner/.nix-defexpr/channels
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx REPLIT_CLUSTER=sisko
+declare -gx DOCKER_CONFIG=/home/runner/discord-js-bot/.config/docker
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx REPLIT_BASHRC=/nix/store/vxzp0jk1x0l6w6v1xhq7fi9rrw2jf2zj-replit-bashrc/bashrc
+declare -gx DISPLAY=:0
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3Mjk0MjI0NzIsImlhdCI6MTcyOTMxMDg3MiwiZGF0YWJhc2VfaWQiOiJmMDZkNjQyNi0yMzc5LTRkMDktYmI4Ny1hYzRlMzhkYTM2YmEifQ.P0J4G_c0k4OF934xOXN0_3dwPu0EBaEaLkllwIto4Ak0erHtVBL9Chqsq4uJmoP8XxjsPmgNhbbv-4Am8sMrYw
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx REPLIT_DOMAINS=f06d6426-2379-4d09-bb87-ac4e38da36ba-00-h7nrx3wq3r8x.sisko.replit.dev
+declare -gx REPLIT_CLI=/nix/store/72bgx3baxfr5hynv96z63fdny3i6g4ww-pid1-0.0.1/bin/replit
+declare -gx XDG_DATA_HOME=/home/runner/discord-js-bot/.local/share
+read -r _new_path <<< "/home/runner/discord-js-bot/.config/npm/node_global/bin:/home/runner/discord-js-bot/node_modules/.bin:/nix/store/0qwsw7nlqfryl828c01i3wb7721jgs0r-npx/bin:/nix/store/ncb85jw7zmyg0zq9b31qbg7yflyr0rzg-nodejs-18.20.4-wrapped/bin:/nix/store/9rgymxmyijhvky204q0hir162kn8fh7i-bun-1.1.30/bin:/nix/store/0r10s324j8flxf8p70h3d9d1bzs1hzpm-pnpm-9.9.0/bin:/nix/store/gjym9dkyscad5xjxv1pnq3dv7256ngfc-yarn-1.22.22/bin:/nix/store/gwglc749dnjcn38afs5r2cvc928swlvd-prettier-3.3.3/bin:/nix/store/k6vgxn42r60rai65j8hn2bwdljgl61ca-pid1/bin:/nix/store/wcqp4hgk6i3qv4q0dxhf9gf784nqd35h-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/home/runner/discord-js-bot/.config/npm/node_global/bin:/home/runner/discord-js-bot/node_modules/.bin:/nix/store/0qwsw7nlqfryl828c01i3wb7721jgs0r-npx/bin:/nix/store/ncb85jw7zmyg0zq9b31qbg7yflyr0rzg-nodejs-18.20.4-wrapped/bin:/nix/store/9rgymxmyijhvky204q0hir162kn8fh7i-bun-1.1.30/bin:/nix/store/0r10s324j8flxf8p70h3d9d1bzs1hzpm-pnpm-9.9.0/bin:/nix/store/gjym9dkyscad5xjxv1pnq3dv7256ngfc-yarn-1.22.22/bin:/nix/store/gwglc749dnjcn38afs5r2cvc928swlvd-prettier-3.3.3/bin:/nix/store/k6vgxn42r60rai65j8hn2bwdljgl61ca-pid1/bin:/nix/store/wcqp4hgk6i3qv4q0dxhf9gf784nqd35h-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/73awzgwmrga8y0dl84cp30h40965wyk5-rippkgs-indices
+declare -gx REPL_HOME=/home/runner/discord-js-bot
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/lib/dri
+declare -gx REPL_LANGUAGE=nix
+declare -gx XDG_CONFIG_HOME=/home/runner/discord-js-bot/.config
+declare -gx REPLIT_RTLD_LOADER=1
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx LANG=en_US.UTF-8
+declare -gx REPL_IDENTITY_KEY=k2.secret.O5KGrCbax9ukIxfyWHfV63GG3L9Il1_gJlbqjAzzi3GwzxlUoAIJjxr63CQwNnMHlfOlUcXoHyMJA5kBvNaFCg
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx PROMPT_DIRTRIM=2
+declare -gx REPLIT_LD_AUDIT=/nix/store/n5x1kgbz8zjh63ymsijbislyi1n1hir6-replit_rtld_loader-1/rtld_loader.so
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx REPL_SLUG=discord-js-bot
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx npm_config_prefix=/home/runner/discord-js-bot/.config/npm/node_global
+declare -gx HOSTNAME=76509b0a827b
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPL_OWNER=yasakiyuka29
+declare -gx REPL_IDENTITY=v2.public.Q2lSbU1EWmtOalF5TmkweU16YzVMVFJrTURrdFltSTROeTFoWXpSbE16aGtZVE0yWW1FU0RIbGhjMkZyYVhsMWEyRXlPUm9PWkdselkyOXlaQzFxY3kxaWIzUWlKR1l3Tm1RMk5ESTJMVEl6TnprdE5HUXdPUzFpWWpnM0xXRmpOR1V6T0dSaE16WmlZVGlxNUtvUldoUUtCWE5wYzJ0dkVndHBiblJsY21GamRHbDJaUT09SA2c7619zAKnRkUEYo8CeV_TQ31qmYJKN8rFB8540En-SfJEucspuwuS6jv8KM7mo6CgRE6A5IpRcISDQOx4CQ.R0FFaUJtTnZibTFoYmhLV0NIWXlMbkIxWW14cFl5NVJNbVF6VTFkc2JGTkZNVEZSVm14U1RqRkNhVTVxYkROVFZrNUZVVmR3V2sxWFVsUk9SVXB2VWtkcmNrd3pTWHBSVjJoMlVUQmtRbFpYUmt0YU1qbHlWMjF3UWsxc2NFVlhWRUpPWVd4c01GUlhjRTVOTURsVVRVUkNZVkpGUlRGVVJtUkxZVlU1UlZrelVscFdNREIzVjJ4U1RrNUdjRWhTV0hCUFlsVndiMUl5WXpCVk1GSkpZa2RvYWsxcldubFpWbWh6VFZkRmVWSlliRkJWYlRsSFZEQjBlV0V6Um05U1YwWkRaVlZzUjFsNlNuTmxiVVY1VDBkR1JWVXlPVTFaVm1NeFRVWndXVk50YUZwTk1VcDNXa2N4Vm1GVk5WaGpNMnhOWW10SmVGZFhNVFJqUm13MVRsaHdWVlpIYUdoV2JYUXdVV3hGZDFSc2NGQlNNRll3V2tWb2EyTnNVbFpWYlVac1lUQnJlRll3YUhka01WcHlZVVZrVDJFd2F6QlpWM1JQVld4UmVHTkZTbHBpYmtKWldWVmFSMlJ5YVZGRk1tNXRZVlJtTTJ0SFZrTmpSVGxCZDAxVU4xTjVVVmhJYjFsMWNsWXlUMk5qUmtvdFkyZEpNVEp0UjNSRlkyWnNjSGd5VjFoclVVZDVlRFZVUlhGaFpVbEVURVV0UjFaSGNHVnhTSGN5VW1sUlVTNVNNRVpHWVZWS2RGUnVXbWxpVkVadldXMW9UVmxyUm5WWFdHeE5ZbXRKZUZkWE1UUmpSbXcxVGxaS1RtSldTVEpXVkVaclRVZFdkRk5zV2xSaWJrSlhWbTB4TkZVeFVuSlZiVVpPVm01Q1YxVXlkRTlXUmxwWllVVldWbVZyU25KVmFrRXhVMVpHY2xOc1drNVNiSEJUVm0xd1QxbFhVbGRpTTJoVFlsZG9VMVpxU205a1ZsWllaRWQwYVdKRk5WaFphMVpQVm0xS1ZXSkZWbFpoYTBwSVdrZDRjMVpzU25WU2JFcFhWbGhDU2xZeWNFTmpNV1J6VW14b2FGTkdjRk5VVldSVFVURmFSMXBGWkZKaVZWcEpWMnRWZUZVd01YUlZhM1JYVFZaYVZGVlVTa3BrTVZKeVlVWktWMkV4Y0haV1ZscHJZakpLYzFSdVNtbFRSVnBZV1cxMGQxUXhiRmRWYkdST1RWaENTRmRyVmpCaGF6RnlWMnhzVjFKdGFGaFdSRVpoWkVkV1NXTkdaRmRpVmtwSlZrWlNTMVF5VFhsVGFscFdZWHBzV0ZSWGVFdGlNVmw1VFZSU1ZFMXJXa2RVVmxaclZrZEtSbGRzV2xwV2VrVXdWMVphYzA1c1JsVlNiWEJwVWxoQ05sWkVSbGRaVjBWNVUyeHNWbFpGV2xkWmExcGhZMnh3U0dWRldteFNia0pHVmpJeGQyRkhSWGhqUnpsWFlXdGFWRlY2Ums1bFJscHpVMnhHVjFKRlNqTldNblJoVjIxT2RHTkZNVkJYUlRSNldrVldXazVXY0VWU1dGSnBZbFJXVVZRd1pHRlZiVXBZWVVSS1ZGSldjSGhXYTFaeVpFZFNSV0ZGY0dsaVZuQlJWMFJKZUZaVk1YUlplbEpxVjBoQ1JsVnJaRlpPUmxwRllrWlNhRTFXU2paWGJYaHZZbGRXY21KNlFsaFdWVEUyVjIxemQyVnNaRlpPV0VwVVZrZFNXVmRYYTNkT1ZrcHlWVzA1VDJGVVJreFVha2sxVWtWNGMxTllaRk5oTVhCdlZteFdkMDFHV2toT1YwWm9WakJ3VmxWdE1EVlhiVXBZVldwS1ZtRnJjRkJWTVZwUFpGWmtkRkpzVGxObGJXY3c
+declare -gx COLORTERM=truecolor
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx REPLIT_NIX_CHANNEL=stable-24_05
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx GIT_ASKPASS=replit-git-askpass
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx HOME=/home/runner
+declare -gx USER=runner
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx REPL_OWNER_ID=36352554
+declare -gx REPLIT_DEV_DOMAIN=f06d6426-2379-4d09-bb87-ac4e38da36ba-00-h7nrx3wq3r8x.sisko.replit.dev

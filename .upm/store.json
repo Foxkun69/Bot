@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"guessedImports":["@src/database","@helpers/Validator","module-alias","@helpers/extenders","@src/structures","@root/dashboard","@helpers/BotUtils","dotenv"],"guessedImportsHash":"4df0ad4bedc24ea11a682f15629738dd"}}}
